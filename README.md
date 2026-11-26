@@ -10,7 +10,7 @@ Send and receive books and other files over your local network using [LocalSend 
 
 ## Install
 
-1. Download the ZIP from [GitHub Releases](https://github.com/bbsteel/koreader-localsend-lite/releases/latest).
+1. Download the ZIP from [GitHub Releases](https://github.com/bbsteel/localsend-lite.koplugin/releases/latest).
 2. Extract the `localsend-lite.koplugin` directory into KOReader's `plugins/` directory. On Kindle, the resulting path on the USB drive is `koreader/plugins/localsend-lite.koplugin/main.lua`.
 3. Eject the Kindle and restart KOReader. Open **Tools → LocalSend Lite**. The entry appears first in the default Tools menu.
 

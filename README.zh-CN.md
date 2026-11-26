@@ -10,7 +10,7 @@
 
 ## 安装
 
-1. 从 [GitHub Releases](https://github.com/bbsteel/koreader-localsend-lite/releases/latest) 下载 ZIP。
+1. 从 [GitHub Releases](https://github.com/bbsteel/localsend-lite.koplugin/releases/latest) 下载 ZIP。
 2. 解压并把整个 `localsend-lite.koplugin` 目录复制到 KOReader 的 `plugins/` 目录。Kindle 的 USB 存储中应能看到 `koreader/plugins/localsend-lite.koplugin/main.lua`。
 3. 安全弹出 Kindle，重启 KOReader，打开 **工具 → LocalSend Lite**。默认位于工具菜单首页第一项。
 
